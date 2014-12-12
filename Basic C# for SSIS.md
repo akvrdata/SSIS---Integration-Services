@@ -1,4 +1,6 @@
 <h1 itemprop="name" class="article-title">A C#.NET toolkit for writing SSIS Script Tasks </h1>
+
+<a href = "http://www.sqlservercentral.com/articles/Integration+Services+%28SSIS%29/76439/">
                     
 
 <p>
